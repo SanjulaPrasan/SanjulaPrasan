@@ -8,20 +8,23 @@ Welcome to my GitHub! I'm a passionate researcher and developer working on Block
 
 ## 🧠 Publications
 
-> 📝 **Title**: *An Overview of Blockchain Technology: History, Architecture, Types, and Features*  
-> 📍 **Book Chapter**: Fortifying Cloud Environments with Blockchain and AI Integration, Bentham Science Publishers  
+### Book Chapter Publications 
+> 📝 *Chapter 2: An Overview of Blockchain Technology: History, Architecture, Types, and Features*  
+> 📍 Fortifying Cloud Environments with Blockchain and AI Integration, Bentham Science Publishers. (Accepted, forthcoming).  
 
-> 📝 **Title**: *Introduction of Modified Root Finding Approaches and Their Comparative Study with Existing Method*  
-> 📍 **Journal**: Journal of Innovative Applied Mathematics and Computational Sciences  
+### Journal Publications
+> 📝 *Introduction of Modified Root Finding Approaches and Their Comparative Study with Existing Method*  
+> 📍 Journal of Innovative Applied Mathematics and Computational Sciences  
 
-> 📝 **Title**: *A Sustainable Blockchain-Based Voting System for Corporate-level Elections*  
-> 📍 **Conference**: International Postgraduate Research Conference (2025)  
+### Conference Presentations
+> 📝 *A Sustainable Blockchain-Based Voting System for Corporate-level Elections*  
+> 📍 Abstract submitted to International Postgraduate Research Conference (IPRC 2025), University of Kelaniya, Sri Lanka. (Under review).
 
-> 📝 **Title**: *Enhancing Corporate-level Elections Using Blockchain-based Voting System*  
-> 📍 **Conference**: PGIS Research Congress - RESCON (2025)  
+> 📝 *Enhancing Corporate-level Elections Using Blockchain-based Voting System*  
+> 📍 Abstract submitted to PGIS Research Congress 2025 (RESCON 2025), University of Peradeniya, Sri Lanka. (Under review).  
 
-> 📝 **Title**: *Interactive 3D Virtual Tourism System: Design And Implementation For Sri Lanka’s Heritage Sites*  
-> 📍 **Conference**: PGIS Research Congress - RESCON (2025)
+> 📝 *Interactive 3D Virtual Tourism System: Design And Implementation For Sri Lanka’s Heritage Sites*  
+> 📍 Abstract submitted to PGIS Research Congress 2025 (RESCON 2025), University of Peradeniya, Sri Lanka. (Under review).
 
 ---
 
