@@ -14,17 +14,17 @@ Welcome to my GitHub! I'm a passionate researcher and developer working on Block
 
 ### Journal Publications
 > 📝 *Introduction of Modified Root Finding Approaches and Their Comparative Study with Existing Method*  
-> 📍 Journal of Innovative Applied Mathematics and Computational Sciences  
+> 📍 Journal of Innovative Applied Mathematics and Computational Sciences (Published)  
 
 ### Conference Presentations
 > 📝 *A Sustainable Blockchain-Based Voting System for Corporate-level Elections*  
-> 📍 Abstract submitted to International Postgraduate Research Conference (IPRC 2025), University of Kelaniya, Sri Lanka. (Under review).
+> 📍 Abstract submitted to International Postgraduate Research Conference (IPRC 2025), University of Kelaniya, Sri Lanka. (Accepted).
 
-> 📝 *Enhancing Corporate-level Elections Using Blockchain-based Voting System*  
-> 📍 Abstract submitted to PGIS Research Congress 2025 (RESCON 2025), University of Peradeniya, Sri Lanka. (Under review).  
+> 📝 *Digital Asset Verification System Using Blockchain and Certificate Authority Services for Sri Lankan Industries*  
+> 📍 Abstract submitted to Faculty of Computing and Technology Student Research Symposium (FCTSRS 2025), University of Kelaniya, Sri Lanka. (Accepted).  
 
 > 📝 *Interactive 3D Virtual Tourism System: Design And Implementation For Sri Lanka’s Heritage Sites*  
-> 📍 Abstract submitted to PGIS Research Congress 2025 (RESCON 2025), University of Peradeniya, Sri Lanka. (Under review).
+> 📍 Abstract submitted to PGIS Research Congress 2025 (RESCON 2025), University of Peradeniya, Sri Lanka. (Accepted).
 
 ---
 
